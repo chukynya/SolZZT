@@ -1,0 +1,15 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Test wallet (contains sensitive key)
+test_wallet.json
+
+# Dapp build artifacts and dependencies
+solzzt-dapp/backend/__pycache__/
+solzzt-dapp/backend/node_modules/
+solzzt-dapp/frontend/node_modules/
+solzzt-dapp/frontend/build/

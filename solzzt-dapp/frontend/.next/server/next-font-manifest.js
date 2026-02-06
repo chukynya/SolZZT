@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/chukynya/.openclaw/workspace/hackathons/colosseum-2026/solzzt-dapp/frontend/app/layout\":[\"static/media/d3ebbfd689654d3a-s.p.woff2\",\"static/media/37786be940ec402b-s.p.woff2\",\"static/media/e4af272ccee01ff0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

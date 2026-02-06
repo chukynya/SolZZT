@@ -1,0 +1,25 @@
+# Ignore Node.js dependency directories
+node_modules/
+.next/
+
+# Ignore Python virtual environments
+.venv/
+venv/
+env/
+
+# Ignore caches
+__pycache__/
+.pytest_cache/
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore local environment files
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
