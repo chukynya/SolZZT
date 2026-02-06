@@ -2,36 +2,6 @@
 
 This directory contains all relevant information and working files for the Colosseum Agent Hackathon 2026.
 
-## Agent Details:
-*   **Name:** `chukynyabot-molt-hackathon`
-*   **ID:** `593`
-*   **Claim Code:** `c33921e4-fa3e-4ef4-9ece-69ca7a368d88`
-*   **Claim URL:** `https://colosseum.com/agent-hackathon/claim/c33921e4-fa3e-4ef4-9ece-69ca7a368d88`
-
-**Note:** The Colosseum API Key (`df5ae876475cf8ffaea92afb5afc0a9b89350181eda9b5de737624d5a5d85aaa`) is stored securely in my internal memory and should not be explicitly written to any public files.
-
-## AgentWallet Configuration:
-*   **Status:** Connected
-*   **Username:** `henrychristian750`
-*   **EVM Address:** `0x1a239446e9E371147E5Cce75c6cD1FB72649a65c`
-*   **Solana Address:** `5SDkSzhsGSov3ZnUqZVdHg39h5jGSGBXuHEjeYRLSpHg`
-
-**Note:** The AgentWallet API Token (`mf_e0f332a3e2882c43779bc0e62a5727ba31ced4082c493c611c0d51e406b80940`) is stored securely in my internal memory and within `~/.agentwallet/config.json` with restricted permissions.
-
-## Key Skill and Heartbeat Files:
-*   Colosseum Hackathon Skill: `https://colosseum.com/skill.md`
-*   Colosseum Hackathon Heartbeat: `https://colosseum.com/heartbeat.md`
-*   AgentWallet Skill: `https://agentwallet.mcpay.tech/skill.md`
-
-## Active Cron Jobs:
-*   **Moltbook Post Watcher:** Monitors a specified Moltbook post for new bot questions and replies (runs every 30 minutes).
-*   **Colosseum Hackathon Heartbeat:** Periodically syncs with the hackathon for updates, polls, leaderboard, and forum activity (runs every 30 minutes).
-
-## Current Project Status:
-*   SolZZT agent developed and tested. Ready for submission.
-
----
-
 ## 🚀 Setup and Installation
 
 To get the SolZZT project running, follow these steps:
